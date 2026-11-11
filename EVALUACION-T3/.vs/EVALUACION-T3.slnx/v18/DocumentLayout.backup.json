@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|c:\\users\\uca40414\\desktop\\guildaaventureros\\evaluaciont3\\evaluacion-t3\\controllers\\aventurerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|solutionrelative:controllers\\aventurerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|c:\\users\\uca40414\\desktop\\guildaaventureros\\evaluaciont3\\evaluacion-t3\\controllers\\especialidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|solutionrelative:controllers\\especialidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|c:\\users\\uca40414\\desktop\\guildaaventureros\\evaluaciont3\\evaluacion-t3\\models\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|solutionrelative:models\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|c:\\users\\uca40414\\desktop\\guildaaventureros\\evaluaciont3\\evaluacion-t3\\models\\aventurero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|solutionrelative:models\\aventurero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|c:\\users\\uca40414\\desktop\\guildaaventureros\\evaluaciont3\\evaluacion-t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|c:\\users\\uca40414\\desktop\\guildaaventureros\\evaluaciont3\\evaluacion-t3\\data\\guildadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|solutionrelative:data\\guildadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|c:\\users\\uca40414\\desktop\\guildaaventureros\\evaluaciont3\\evaluacion-t3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|c:\\users\\uca40414\\desktop\\guildaaventureros\\evaluaciont3\\evaluacion-t3\\evaluacion-t3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|solutionrelative:evaluacion-t3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|c:\\users\\uca40414\\desktop\\guildaaventureros\\evaluaciont3\\evaluacion-t3\\migrations\\20261111220650_migra1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570D39D-8FC2-AC69-6E88-66E8AFA58212}|EVALUACION-T3.csproj|solutionrelative:migrations\\20261111220650_migra1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EspecialidadController.cs",
+              "DocumentMoniker": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Controllers\\EspecialidadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EspecialidadController.cs",
+              "ToolTip": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Controllers\\EspecialidadController.cs",
+              "RelativeToolTip": "Controllers\\EspecialidadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T22:15:55.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AventureroController.cs",
+              "DocumentMoniker": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Controllers\\AventureroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AventureroController.cs",
+              "ToolTip": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Controllers\\AventureroController.cs",
+              "RelativeToolTip": "Controllers\\AventureroController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T22:15:35.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20261111220650_migra1.cs",
+              "DocumentMoniker": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Migrations\\20261111220650_migra1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261111220650_migra1.cs",
+              "ToolTip": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Migrations\\20261111220650_migra1.cs",
+              "RelativeToolTip": "Migrations\\20261111220650_migra1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T22:06:51.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aventurero.cs",
+              "DocumentMoniker": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Models\\Aventurero.cs",
+              "RelativeDocumentMoniker": "Models\\Aventurero.cs",
+              "ToolTip": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Models\\Aventurero.cs",
+              "RelativeToolTip": "Models\\Aventurero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T21:34:57.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Especialidad.cs",
+              "DocumentMoniker": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Models\\Especialidad.cs",
+              "RelativeDocumentMoniker": "Models\\Especialidad.cs",
+              "ToolTip": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Models\\Especialidad.cs",
+              "RelativeToolTip": "Models\\Especialidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T21:34:45.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuildaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Data\\GuildaDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\GuildaDbContext.cs",
+              "ToolTip": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Data\\GuildaDbContext.cs",
+              "RelativeToolTip": "Data\\GuildaDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T21:30:57.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EVALUACION-T3.csproj",
+              "DocumentMoniker": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\EVALUACION-T3.csproj",
+              "RelativeDocumentMoniker": "EVALUACION-T3.csproj",
+              "ToolTip": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\EVALUACION-T3.csproj",
+              "RelativeToolTip": "EVALUACION-T3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T21:30:19.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T21:30:05.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\UCA40414\\Desktop\\GUILDAAVENTUREROS\\evaluaciont3\\EVALUACION-T3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T21:25:28.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
